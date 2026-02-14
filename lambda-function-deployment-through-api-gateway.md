@@ -1,6 +1,6 @@
 # DebugFlow Backend — AWS Lambda Deployment Guide (API Gateway)
 
-**This guide covers deploying the DebugFlow Express backend to **AWS Lambda** using **API Gateway** with **Buffered Response** mode, and connecting your **RDS PostgreSQL database** via **pgAdmin 4**.******
+This guide covers deploying the DebugFlow Express backend to **AWS Lambda** using **API Gateway** with **Buffered Response** mode, and connecting your **RDS PostgreSQL database** via **pgAdmin 4**.
 ---
 ## Table of Contents
 - [Architecture Overview](#architecture-overview)
